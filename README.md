@@ -1,110 +1,82 @@
-# 👋 Anas KIOUAZ
+# Anas KIOUAZ
 
-**Étudiant BUT Informatique | Développeur Backend, Data & IA**
+**Développeur Backend, Data & IA** · Étudiant en BUT Informatique (IUT2 Grenoble)
 
-🌍 Grenoble, France | 📧 [anas.kiouaz@gmail.com](mailto:anas.kiouaz@gmail.com) | 🔗 [Portfolio](https://anaskiouaz.github.io/portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/anas-kiouaz-060689387/)
-
----
-
-## 🎯 À la recherche d'une ALTERNANCE — Sept 2026
-
-**Profil :** Étudiant 2ᵉ année BUT Informatique à l'IUT2 Grenoble  
-**Rythme :** 3 semaines entreprise / 1 semaine école  
-**Postes visés :** Développeur Backend | IA / Data | Full-Stack  
-**Stack préféré :** Python, Java, Symfony, Docker, PostgreSQL  
+Grenoble, France · [anas.kiouaz@gmail.com](mailto:anas.kiouaz@gmail.com) · [Portfolio](https://anaskiouaz.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/anas-kiouaz-060689387/)
 
 ---
 
-## 💻 Ce que je maîtrise
+## Recherche d'alternance
 
-| Backend | Data & IA | Infrastructure |
-|---------|-----------|-----------------|
+Je recherche une alternance en développement **Backend**, **Data / IA** ou **Full-Stack**, au rythme de 3 semaines en entreprise pour 1 semaine à l'école.
+
+**Stack de prédilection :** Python · Java · Symfony · Docker · PostgreSQL
+
+---
+
+## Compétences
+
+| Backend | Data & IA | Infrastructure & Qualité |
+|---------|-----------|--------------------------|
 | Python, Java, Symfony | Machine Learning, Deep Learning, NLP | Docker, PostgreSQL, Linux |
-| Node.js/TypeScript, APIs REST | TensorFlow, Keras, scikit-learn | Tests (Cypress, Espresso, JUnit) |
-| MVC, Services Architecture | Pandas, NumPy, TF-IDF, KNN | Git, CI/CD, Jenkins |
+| Node.js / TypeScript | TensorFlow, Keras, scikit-learn | Git, CI/CD, Jenkins |
+| API REST, architecture MVC / services | Pandas, NumPy, TF-IDF, KNN | Tests : Cypress, Espresso, JUnit |
 
 ---
 
-## 🏆 3 projets qui prouvent mon niveau
+## Projets principaux
 
-### 🥇 **WEAVE** — Élu meilleur projet de la promotion (2025)
-Plateforme d'aide aux aidants familiaux | **Symfony + PostgreSQL + Docker**
+### WEAVE — Meilleur projet de la promotion (2025)
+Plateforme d'aide aux aidants familiaux. **Symfony · PostgreSQL · Docker**
+- Conception de l'architecture de données (modélisation Merise) et de l'API REST.
+- [Code source](https://github.com/anaskiouaz/weave-aidants)
 
-**Contributeur clé :** Architecture data complète, design relationnel (Merise), API REST
+### SAE4 — Chef de projet, équipe de 6 (2026)
+Refonte d'une application existante : conteneurisation Docker, normalisation de la base en 3FN, tests E2E Cypress / Espresso.
+- Temps de déploiement : 15 min → **1 min**
+- Requêtes par page : ~30 (problème N+1) → **3 à 4**
+- Crashs Android : → **0**
+- [Code source](https://github.com/anaskiouaz/sae4-carnet-stage)
 
-🔗 [GitHub](https://github.com/anaskiouaz/weave-aidants)
-
----
-
-### 🔧 **SAE4** — Chef de projet (Équipe de 6) - 2026
-Refonte complète d'une app existante : conteneurisation Docker, normalisation BD en 3FN, tests E2E Cypress/Espresso
-
-**Résultats :**
-- ⏱️ Temps déploiement : 15 min → **1 min**
-- 🚀 Requêtes DB : ~30 (N+1) → **3-4** optimisées
-- ✅ Stabilité Android : Crashs → **0**
-
-🔗 [GitHub](https://github.com/anaskiouaz/sae4-carnet-stage)
+### Classification de dépêches — Machine Learning & NLP (2025)
+Classification automatique de dépêches avec TF-IDF et KNN, **87 % de précision**.
+- [Code source](https://github.com/anaskiouaz/news-classification)
 
 ---
 
-### 📊 **Classification IA** — Machine Learning & NLP (2025)
-Classification automatique de dépêches avec TF-IDF + KNN | **Accuracy 87%**
+## Autres réalisations
 
-🔗 [GitHub](https://github.com/anaskiouaz/news-classification)
-
----
-
-## 📈 Autres projets
-
-- **ExpoMiner** (Node.js/React) — Automatisation IA pour qualification prospects | 80% temps réduit
-- **CNN Image Classification** (TensorFlow) — Reconnaissance d'images | 94% accuracy
-- **ERP Grand Prix** (Java/JavaFX) — Gestion événements sportifs complets
+- **ExpoMiner** (Node.js / React) : automatisation par IA de la qualification de prospects, 80 % de temps de traitement économisé.
+- **Classification d'images par CNN** (TensorFlow) : reconnaissance d'images, 94 % de précision.
+- **ERP Grand Prix** (Java / JavaFX) : gestion complète d'événements sportifs.
 
 ---
 
-## 🎓 Formation
+## Formation
 
-**BUT Informatique** — IUT2 Grenoble (2024-2027)
-- En 2ᵉ année actuellement
-- Baccalauréat scientifique mention Bien
-- Spécialités : Backend, Data, IA
+**BUT Informatique**, IUT2 Grenoble (2024 – 2027)
+Parcours orienté Backend, Data et IA · Baccalauréat scientifique, mention Bien
 
----
+## Langues
 
-## 🌍 Langues
-
-| 🇫🇷 Français | Natif |
-| 🇬🇧 Anglais | B2 |
-| 🇸🇦 Arabe | B2 |
-| 🇮🇹 Italien | Notions |
+Français (natif) · Anglais (B2) · Arabe (B2) · Italien (notions)
 
 ---
 
-## ✅ Ce que je peux faire pour toi
+## Ce que j'apporte
 
-✅ **Autonomie** — Livrer des services/scripts dès les premières semaines  
-✅ **Rigueur** — Code propre, testé, documenté, pas de dette technique  
-✅ **DevOps-minded** — À l'aise avec Docker, Git, CI/CD, tests automatisés  
-✅ **Apprentissage** — Capable de monter en compétences rapidement sur nouvelle stack  
-✅ **Collaboration** — Code reviews, communication claire, bonne dynamique équipe  
+- **Autonomie :** capacité à livrer services et scripts dès les premières semaines.
+- **Rigueur :** code propre, testé et documenté.
+- **Culture DevOps :** Docker, Git, CI/CD, tests automatisés.
+- **Collaboration :** revues de code, communication claire, travail en équipe.
+- **Progression rapide :** montée en compétences sur de nouvelles technologies.
 
----
+## Objectif
 
-## 📞 Comment me contacter
-
-📧 **Email :** [anas.kiouaz@gmail.com](mailto:anas.kiouaz@gmail.com) ← **Réponse en < 24h**
-
-💼 **LinkedIn :** [@anas-kiouaz](https://www.linkedin.com/in/anas-kiouaz-060689387/)  
-🐙 **GitHub :** [@anaskiouaz](https://github.com/anaskiouaz)  
-🔗 **Portfolio :** [anaskiouaz.github.io/portfolio](https://anaskiouaz.github.io/portfolio/)
+Devenir ingénieur développeur spécialisé en FinTech.
 
 ---
 
-## 🎯 Objectif long terme
+## Contact
 
-Devenir **Ingénieur Développeur spécialisé en FinTech** — Innovation technologique dans le secteur financier.
-
----
-
-**Si tu cherches un junior autonome, curieux et rigoureux pour une alternance — écris-moi !** ✌️
+Email : [anas.kiouaz@gmail.com](mailto:anas.kiouaz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anas-kiouaz-060689387/) · [Portfolio](https://anaskiouaz.github.io/portfolio/)
